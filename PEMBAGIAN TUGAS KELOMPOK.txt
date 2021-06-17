@@ -1,0 +1,28 @@
+1. Khairunnisa Latifa (1411522018)
+	Fungsional yang dibuat :
+	a. Lihat Kelas (Admin)
+	b. Tambah peserta kelas (Admin)
+2. Dinda Fitria (1811521001)
+	Fungsional yang dibuat :
+	a. Login (Admin dan Mahasiswa)
+	b. Logout (Admin dan Mahasiswa)
+	c. Lihat list data Mahasiswa
+	d. Tambah data Mahasiswa (Admin)
+	e. Ubah data Mahasiswa (Admin)
+	f. Hapus Data Mahasiswa (Admin)
+	g. Cetak data dalam PDF (Admin)
+3. Dania ClaraSinta H. (1811523009)
+	Fungsional yang dibuat :
+	a. Lihat list Kelas (Admin)
+	b. Tambah Kelas (Admin)
+	c. Ubah Kelas (Admin)
+	d. Lihat Daftar Kelas Yang Diikuti Mahasiswa (Mahasiswa)
+	e. Upload File CSV (Admin)
+4. Ranti Agustin (1911522028)
+	Fungsional yang dibuat :
+	a. Melihat Detail Kelas (Mahasiswa)
+	b. Tambah Pertemuan Kelas (Admin)
+	c. Lihat Pertemuan Kelas (Admin)
+5. Novya Lira Natasya (1911523010)
+	a. Hapus Peserta Kelas (Admin)
+	
